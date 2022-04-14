@@ -1,1 +1,3 @@
-// Follow along with the examples here
+function sayHelloToGuadalupe(Hello) {
+    console.log("Hello, Guadalupe!");
+  }
